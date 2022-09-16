@@ -4,6 +4,9 @@ Alunas: Cinthia Elaine Matsuda e Laryssa Gomes da Silva
 <b>Site hospedado no Replit</b><br>
 https://hospedagemapi.cinthiamatsuda.repl.co/
 
+<b>Deploy Heroku</b><br>
+https://traveller-fiap2022.herokuapp.com/
+
 <b>API escolhida</b><br>
 API de Geolocalização.
 
